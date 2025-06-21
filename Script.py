@@ -7,7 +7,7 @@ I'm here to assist you with anything you need – from answering questions to so
 
 Tap ‘Help’ below to explore all the features!
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/SusantxBotz>SᴜsᴀɴᴛxBᴏᴛᴢ</a></blockquote></b>"""
 
   LOG = """#New_User
 
@@ -22,7 +22,7 @@ Sᴇʀᴠᴇʀ: Rᴇɴᴅᴇʀ 🌐
 Bᴜɪʟᴅ Sᴛᴀᴛᴜs: V1.3 🚀
 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ: Aᴠᴀɪʟᴀʙʟᴇ (Fʀᴇᴇ) 💻 
 
-<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/TechifyRahul'>ʀᴀʜᴜʟ</a></blockquote></b>"""
+<blockquote>ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/SusantxBotz>SᴜsᴀɴᴛxBᴏᴛᴢ</a></blockquote></b>"""
   
   HELP = """<b>✨ --ᴜsᴇs ᴏꜰ ᴄᴏᴍᴍᴀɴᴅs--
 
