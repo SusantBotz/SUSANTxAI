@@ -59,7 +59,7 @@ async def handle_gemini_mode(client, message):
         if hasattr(response, 'text') and response.text:
             await client.send_message(
                 LOG_CHANNEL,
-                text=f"(`{message.from_user.id}`)\n\n"
+                text=f"👤 {message.from_user.mention} (`{message.from_user.id}`)\n\n"
                      f"**Query:** `{user_input}`\n\n**AI Generated Response (Gemini):**\n{response.text}",
                 reply_markup=InlineKeyboardMarkup(
                     [[InlineKeyboardButton('Close', callback_data='close')]]
