@@ -1,64 +1,63 @@
-<h1 align="center">
- <b><a href="https://youtu.be/GBj7FHz7rRo" target="/blank">AI Bot</a>
-</h1>
+# Welcome to Our Project
+<h1 align="center"><b>❤️ SUSANT GRABBER BOT ❤️</b></h1>
+<p align="center">
+  <img src="https://files.catbox.moe/zbmo06.jpg"
+</p>
+### 🛠️ ʟᴀɴɢᴜᴀɢᴇs ᴀɴᴅ ᴛᴏᴏʟs
 
-<p align="center">🩷 Thanks for Being Here 🩷</p>
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+----
+ 
+### 🤤 ғᴇᴀᴛᴜʀᴇs
+
+- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴠ2 
+- [»] sᴀғᴇsᴛ ʙᴏᴛ ᴇᴠᴇʀ 
+- [»] sᴜᴩᴩᴏʀᴛs ᴩʏʀᴏɢʀᴀᴍ ᴀɴᴅ ᴛᴇʟᴇᴛʜᴏɴ 
+- [»] sᴜᴩᴩᴏʀᴛs sᴇssɪᴏɴ ɢᴇɴ ғᴏʀ ʙᴏᴛғᴀᴛʜᴇʀ ʙᴏᴛs
+
+### 🚀 ᴅᴇᴘʟᴏʏ ᴛᴏ ʜᴇʀᴏᴋᴜ
+  
+  <p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/SusantBotz/SUSANTxAI"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 
-### 🥰 FEATURES
-
-<details><summary>Tap On Me For Bot Features</summary>
-
-- Work in groups as well as in PM
-- Log channel to store all results
-- No need to use command while talking to AI in private
-- Broadcast available
-- Fsub available
-- Fully modified repo
-- Deploy To Koyeb + Heroku + Railway.
-- [Developer support](https://telegram.me/TechifySupport) 24x7
-</details>
-
-
-### 🔥 VARIABLES
-
-<details><summary>Tap On Me For Environment Variable</summary>
-
-- `API_ID` : Get From [Here](https://youtu.be/y5FwAobQ-Kc)
-- `API_HASH` : Get From [Here](https://youtu.be/y5FwAobQ-Kc)
-- `BOT_TOKEN` : Get From [BotFather](https://youtu.be/aJILCCXfNVM)
-- `ADMIN` : Your Telegram User ID
-- `DB_URI` : MongoDB Database get from [here](https://youtu.be/j8LIuM7vv18)
-- `LOG_CHANNEL` : Your Log channel ID.
-- `AUTH_CHANNELS` : Your FSUB channel ID.
-- `GOOGLE_API_KEY` : Your Gemini [API](https://youtube.com/shorts/M_HODruvqd0).
-</details>
-
-### 😍 COMMANDS
-
-<details><summary>Tap On Me For Commands</summary>
+### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
+  
+  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/StringGenXRoBot)
 
 ```
-start - Start The Bot
-ask - Ask anything to AI
-broadcast - (admin only) Broadcast message to bot users
-stats - (admin only) check bots stats
+Atleast Give A Star and Fork The Repo 🖤
 ```
-</details>
 
-### 👀 IMP
+## 🗒️ ɴᴇᴄᴇssᴀʀʏ ᴠᴀʀs
 
-If you are facing any issue while using the bot even after entering the correct API then update the [model](https://github.com/TechifyBots/AI-Bot/blob/main/plugins%2Fmain.py#L50). Get the free models from [here](https://ai.google.dev/gemini-api/docs/rate-limits)
+☞ `API_ID` - Get your API_ID from [my.telegram.org](https://my.telegram.org/apps)<br>
+☞ `API_HASH` - Get your API_HASH from [my.telegram.org](https://my.telegram.org/apps)<br>
+☞ `BOT_TOKEN` - Get your BOT_TOKEN from [@BotFather](https://t.me/BotFather)<br>
+☞ `MONGO_DB_URI` - Get MONGO_DB_URI from [MongoDB.com](https://cloud.mongodb.com)<br>
 
-### 🥳 CREDIT
 
- - [TechifyBots](https://github.com/TechifyBots)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 😇 [SUPPORT](https://techifybots.github.io/PayWeb)
 
-### 🥳 [DEVELOPER](https://instagram.com/TechifyRahul)
+## 💖 ᴄʀᴇᴀᴛᴏʀ
+- » [THE HYPER](t.me/IM_SUSANT)
 
-### 📌 NOTE
 
-𝘊𝘰𝘱𝘺𝘪𝘯𝘨 𝘰𝘳 𝘚𝘦𝘭𝘭𝘪𝘯𝘨 𝘵𝘩𝘪𝘴 𝘳𝘦𝘱𝘰 𝘪𝘴 𝘴𝘵𝘳𝘪𝘤𝘵𝘭𝘺 𝘱𝘳𝘰𝘩𝘪𝘣𝘪𝘵𝘦𝘥.</b>
+
+Join our Telegram community And support us!!
+
+<p align="center">
+  <a href="https://t.me/+7WsZh7pyfxZhYmQ1">
+    <img src="https://img.shields.io/badge/Join%20Group-Telegram-blue?logo=telegram" alt="Join Telegram Group">
+  </a>
+  &nbsp;
+  <a href="https://t.me/SusantxBotz">
+    <img src="https://img.shields.io/badge/Join%20Channel-Telegram-blue?logo=telegram" alt="Join Telegram Channel">
+  </a>
+</p>
+
