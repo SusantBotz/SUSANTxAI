@@ -1,5 +1,5 @@
 # Welcome to Our Project
-<h1 align="center"><b>❤️ SUSANT GRABBER BOT ❤️</b></h1>
+<h1 align="center"><b>🔰 SUSANT AI BOT 🔰</b></h1>
 <p align="center">
   <img src="https://files.catbox.moe/zbmo06.jpg"
 </p>
