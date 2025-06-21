@@ -60,15 +60,15 @@ async def handle_gemini_mode(client, message):
             await client.send_message(
                 LOG_CHANNEL,
                 text=f"👤 {message.from_user.mention} (`{message.from_user.id}`)\n\n"
-                     f"**{message.from_user.mention},** {response.text}",
+                     f"**Query:** `{user_input}`\n\n**AI Generated Response (Gemini):**\n{response.text}",
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇ 👨‍💻", url="https://t.me/SusantxBotz")]]
+                    [[InlineKeyboardButton('Close', callback_data='close')]]
                 )
             )
             ai_message = await message.reply_text(
-                f"{response.text}",
+                f"**{message.from_user.mention},** {response.text}",
                 reply_markup=InlineKeyboardMarkup(
-                    
+                    [[InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇ 👨‍💻", url="https://t.me/SusantxBotz")]]
                 )
             )
 
