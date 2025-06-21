@@ -68,7 +68,7 @@ async def handle_gemini_mode(client, message):
             ai_message = await message.reply_text(
                 f"{response.text}",
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton("Jᴏɪɴ Uᴘᴅᴀᴛᴇ 👨‍💻", url="http://t.me/SusantxBotz")]]
+                    
                 )
             )
 
