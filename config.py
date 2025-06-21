@@ -14,4 +14,4 @@ DB_NAME = os.environ.get("DB_NAME", "susant-botz")
 IS_FSUB = os.environ.get("IS_FSUB", "True").lower() == "true"  # Set "True" For Enable Force Subscribe
 AUTH_CHANNELS = list(map(int, os.environ.get("AUTH_CHANNEL", "-1002131408527 -1002618578974").split()))  # Add Multiple channel id
 
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "")
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "23161071492-p3u1n90hsoo9noi3p536q8f1b9bs46md.apps.googleusercontent.com")
